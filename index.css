@@ -1,0 +1,57 @@
+body{
+    background-color:#5c8a8a;
+}
+.heading{
+    text-align: center;
+    color: antiquewhite;
+}
+.mainForm{
+    background-color: antiquewhite;
+    
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    color: #335c5c;
+}
+
+.formButton{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+
+#cname{
+    display: flex;
+    justify-content: center;
+}
+.flag{
+    display: flex;
+    justify-content: center;
+}
+#pic{
+    display: flex;
+    justify-content: center;
+}
+.language{
+    display: flex;
+    justify-content: center;
+}
+#lang{
+    display: flex;
+    justify-content: center;
+}
+.countryLang{
+    display: flex;
+    justify-content: center;
+}
+#namel{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
